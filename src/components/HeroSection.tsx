@@ -61,6 +61,13 @@ const HeroSection = () => {
             >
               View Work
             </a>
+            <a
+              href="/Aziz_Resume.pdf"
+              download
+              className="border border-primary text-primary px-6 py-3 rounded-lg font-heading font-semibold text-sm hover:bg-primary hover:text-primary-foreground transition-colors"
+            >
+              Download CV
+            </a>
           </div>
         </motion.div>
 
